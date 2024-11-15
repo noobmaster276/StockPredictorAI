@@ -20,6 +20,9 @@ Dynamic plots of stock prices, including 20-day moving averages, for quick trend
 🔮 Next-Day Price Prediction
 Uses linear regression to forecast the next day's stock price, helping you make informed decisions.
 
+## 📸 Output
+![plotted graph Output](images/graph2.png)
+
 # 💡 How to Use
 Create a mongodb cluster url and connect your python to your cluster. 
 Run the code to check if the connection is established or not.
