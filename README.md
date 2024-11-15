@@ -21,7 +21,10 @@ Dynamic plots of stock prices, including 20-day moving averages, for quick trend
 Uses linear regression to forecast the next day's stock price, helping you make informed decisions.
 
 # 💡 How to Use
-
+Create a mongodb cluster url and connect your python to your cluster. 
+Run the code to check if the connection is established or not.
+You can change the link of the website (example used here :Yahoo Finance) and make the changes in the code accordingly for the web scraping.
+Enter the name of the stock you want to moniter and let the code do its work.
 Explore the Outputs
 
 Real-time data scraping and storage
