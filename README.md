@@ -33,15 +33,23 @@ Interactive price trend visualization
 Predicted next-day price point
 # 🔍 Sample Output
 Data Collection: Continuously scrapes and stores live stock prices.
+
 Visualizations: Smooth stock price plots with moving averages.
+
 Statistical Insights: Delivers detailed metrics for better insight.
+
 Predictive Modeling: Next-day forecast displayed alongside historical data.
 # 🛠️ Built With
 Python: Core language
+
 BeautifulSoup: For web scraping
+
 MongoDB: Database to store stock data
+
 NumPy & Pandas: Data processing
+
 Matplotlib: Plotting stock trends
+
 Scikit-Learn: Machine learning for predictive insights
 # 🚀 Future Enhancements
 Enable multi-stock analysis
